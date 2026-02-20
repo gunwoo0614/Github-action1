@@ -3,9 +3,9 @@
 #include "plus.h"
 int main()
 {
-	//int a = 3;
-	double a = 3.1
+	int a = 3;
 	int b = 5;
 	int c = plus(a, b);
 	printf("%d\n", c);   
+
 }
